@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://manisaideepika.github.io/csb-z04rpi/static/css/main.99099426.chunk.css",
+    "main.js": "https://manisaideepika.github.io/csb-z04rpi/static/js/main.a6248270.chunk.js",
+    "main.js.map": "https://manisaideepika.github.io/csb-z04rpi/static/js/main.a6248270.chunk.js.map",
+    "runtime-main.js": "https://manisaideepika.github.io/csb-z04rpi/static/js/runtime-main.59f68576.js",
+    "runtime-main.js.map": "https://manisaideepika.github.io/csb-z04rpi/static/js/runtime-main.59f68576.js.map",
+    "static/js/2.b169dbcc.chunk.js": "https://manisaideepika.github.io/csb-z04rpi/static/js/2.b169dbcc.chunk.js",
+    "static/js/2.b169dbcc.chunk.js.map": "https://manisaideepika.github.io/csb-z04rpi/static/js/2.b169dbcc.chunk.js.map",
+    "index.html": "https://manisaideepika.github.io/csb-z04rpi/index.html",
+    "static/css/main.99099426.chunk.css.map": "https://manisaideepika.github.io/csb-z04rpi/static/css/main.99099426.chunk.css.map",
+    "static/js/2.b169dbcc.chunk.js.LICENSE.txt": "https://manisaideepika.github.io/csb-z04rpi/static/js/2.b169dbcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59f68576.js",
+    "static/js/2.b169dbcc.chunk.js",
+    "static/css/main.99099426.chunk.css",
+    "static/js/main.a6248270.chunk.js"
+  ]
+}
